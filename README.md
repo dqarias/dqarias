@@ -1,6 +1,6 @@
 ## Hi there, I'm Dino Ronald 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=67B3CF&lines=Remote+Full-stack+web+developer+;Ready+for+a+new+journey)](https://git.io/typing-svg)
+Full Stack web developer ready for a next journey.
 
 ```javascript
  const dinoRonald = {
