@@ -17,8 +17,8 @@ Remote Full-stack web developer ready for a new journey
 ### My Github stats
 
 <a href="https://github.com/dqarias">
-  <img   height="200em" src="https://github-readme-stats.vercel.app/api?username=dqarias&theme=dracula&show_icons=true" />
-  <img   height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=dracula&layout=compact" />
+  <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&theme=dracula&show_icons=true" />
+  <img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=dracula&layout=compact" />
 </a>
 
 <br/>
