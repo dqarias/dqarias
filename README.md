@@ -1,6 +1,6 @@
 ## Hi there, I'm Dino Ronald 👋
 
-Remote Full-stack web developer ready for a new journey
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=67B3CF&lines=Remote+Full-stack+web+developer+;Ready+for+a+new+journey)](https://git.io/typing-svg)
 
 
 ```javascript
@@ -26,18 +26,4 @@ Remote Full-stack web developer ready for a new journey
 ### Contact me
 
 ![https://www.linkedin.com/in/dino-ronald-quispe-arias-8ba72174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-<!--
-**dqarias/dqarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![https://twitter.com/DinoRonald7?t=QIk7_DlDy2uvb5AMBi33Zw&s=08](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
