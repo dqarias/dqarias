@@ -15,8 +15,13 @@ Remote Full-stack web developer ready for a new journey
   }
   ```
 ### My Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=dracula)](https://github.com/dqarias/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&layout=compact&theme=dracula)](https://github.com/dqarias/github-readme-stats)
+
+<a href="https://github.com/dqarias">
+  <img   height="200em" src="https://github-readme-stats.vercel.app/api?username=dqarias&theme=dracula&show_icons=true" />
+  <img   height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=dracula&layout=compact" />
+</a>
+
+<br/>
 
 ### Contact me
 
