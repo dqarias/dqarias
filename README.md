@@ -24,5 +24,5 @@ Full Stack web developer ready for a next journey.
 
 ### Contact me
 
-![https://www.linkedin.com/in/dino-ronald-quispe-arias-8ba72174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://twitter.com/DinoRonald7?t=QIk7_DlDy2uvb5AMBi33Zw&s=08](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[![https://www.linkedin.com/in/dino-ronald-quispe-arias-8ba72174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dino-ronald-quispe-arias-8ba72174/)
+[![https://twitter.com/DinoRonald7?t=QIk7_DlDy2uvb5AMBi33Zw&s=08](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DinoRonald7?t=QIk7_DlDy2uvb5AMBi33Zw&s=08)
