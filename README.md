@@ -17,8 +17,8 @@ Full Stack web developer ready for a next journey.
 ### My Github stats
 
 <p align="center" href="https://github.com/dqarias">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=react" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=react&layout=compact" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=ayu-mirage" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=ayu-mirage&layout=compact" />
 </p>
 
 ### Contact me
