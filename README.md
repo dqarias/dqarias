@@ -1,9 +1,9 @@
 ## Hi there, I'm Dino Ronald <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+<img height="48em" src="https://github.com/dqarias/Portfolio/blob/development/src/assets/img/logoBrandDino.png" />
+</p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div style="display: flex">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="justify-content: center" src="https://readme-typing-svg.herokuapp.com?size=28&color=cb557a&WIDTH=500&lines=Full+Stack+Web+Developer;I+build+things+for+the+web"</a>
-</div>
-<img  height="32em" src="https://github.com/dqarias/Portfolio/blob/development/src/assets/img/logoBrandDino.png" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=cb557a&WIDTH=500&lines=Full+Stack+Web+Developer;I+build+things+for+the+web"/>
 
 ```javascript
  const dinoRonald = {
@@ -16,7 +16,6 @@
     funFacts: ['I like to play hide and seek with my cats']
   }
   ```
-  
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,vite,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,ruby,rails,postgres,mysql,markdown,figma,vscode,github,git,netlify,vercel,heroku,bash)](https://skillicons.dev)
@@ -24,8 +23,8 @@
 ### My Github stats
 
 <p align="center" href="https://github.com/dqarias">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=ayu-mirage" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=ayu-mirage&layout=compact" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=dracula" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=dracula&layout=compact" />
 </p>
 
 ### Contact me
