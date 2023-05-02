@@ -23,8 +23,8 @@
 ### My Github stats
 
 <p align="center" href="https://github.com/dqarias">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=dracula" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=dracula&layout=compact" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dqarias&show_icons=true&theme=tokyonight" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=tokyonight&layout=compact" />
 </p>
 
 ### Contact me
