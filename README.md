@@ -27,14 +27,9 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqarias&theme=tokyonight&layout=compact" />
 </p>
 
-### Contact me
-
-<a href="https://twitter.com/DinoRonald7?t=QIk7_DlDy2uvb5AMBi33Zw&s=08">
-  <img align="left" alt="Dino Quispe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dino-ronald-quispe-arias/">
-  <img align="left" alt="Dino's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+### Contact with me
+<p align="left">
+<a href="https://www.linkedin.com/in/dino-ronald-quispe-arias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dino ronald quispe arias" height="30" width="40" /></a>
+</p>
 
 
